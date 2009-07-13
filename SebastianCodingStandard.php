@@ -18,7 +18,6 @@ class PHP_CodeSniffer_Standards_Sebastian_SebastianCodingStandard extends PHP_Co
           'Generic/Sniffs/ControlStructures/InlineControlStructureSniff.php',
 
           'Generic/Sniffs/Files/LineEndingsSniff.php',
-          'Generic/Sniffs/Files/LineLengthSniff.php',
 
           'Generic/Sniffs/Formatting/DisallowMultipleStatementsSniff.php',
           'Generic/Sniffs/Formatting/MultipleStatementAlignmentSniff.php',
