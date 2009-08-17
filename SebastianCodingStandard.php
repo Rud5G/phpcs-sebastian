@@ -26,8 +26,6 @@ class PHP_CodeSniffer_Standards_Sebastian_SebastianCodingStandard extends PHP_Co
           'Generic/Sniffs/Functions/OpeningFunctionBraceBsdAllmanSniff.php',
           'PEAR/Sniffs/Functions/ValidDefaultValueSniff.php',
 
-          'Generic/Sniffs/Metrics/CyclomaticComplexitySniff.php',
-
           'Generic/Sniffs/NamingConventions/ConstructorNameSniff.php',
           'Generic/Sniffs/NamingConventions/UpperCaseConstantNameSniff.php',
           'PEAR/Sniffs/NamingConventions/ValidClassNameSniff.php',
