@@ -36,6 +36,7 @@ class PHP_CodeSniffer_Standards_Sebastian_SebastianCodingStandard extends PHP_Co
 
           'Generic/Sniffs/WhiteSpace/DisallowTabIndentSniff.php',
           'Generic/Sniffs/WhiteSpace/ScopeIndentSniff.php',
+          'Squiz/Sniffs/WhiteSpace/SuperfluousWhitespaceSniff.php',
         );
     }
 }
